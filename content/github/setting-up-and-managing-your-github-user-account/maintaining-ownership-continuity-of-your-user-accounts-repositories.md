@@ -1,4 +1,4 @@
----
+---docs/content/github/setting-up-and-managing-your-github-user-account/maintaining-ownership-continuity-of-your-user-accounts-repositories.md
 title: Maintaining ownership continuity of your user account's repositories
 intro: You can invite someone to manage your user owned repositories if you are not able to.
 versions:
